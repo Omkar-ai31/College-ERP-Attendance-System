@@ -117,3 +117,14 @@ Omkar
 
 1. cd backend
 2. npm run dev
+
+
+<img width="1920" height="1080" alt="teacher signup" src="https://github.com/user-attachments/assets/ce59c80d-7fcc-401c-8f63-27e897d5bd91" />
+<img width="1920" height="1080" alt="teacher login" src="https://github.com/user-attachments/assets/55a7999f-ab17-41b4-ab15-cf908d9b7f7f" />
+<img width="1920" height="1080" alt="teacher dashboard" src="https://github.com/user-attachments/assets/6d1e2474-5c59-4afc-955a-59e1b2397706" />
+<img width="1920" height="1080" alt="student login" src="https://github.com/user-attachments/assets/8211e4b1-86c4-4b3a-aa91-d2b1b584060f" />
+<img width="1920" height="1080" alt="student dashboard" src="https://github.com/user-attachments/assets/c6ea2287-6a9d-494d-a8a0-186bc51e0322" />
+<img width="1920" height="1080" alt="selection role" src="https://github.com/user-attachments/assets/f49b7757-0908-4e29-bc8c-634554233579" />
+<img width="1920" height="1080" alt="erp page" src="https://github.com/user-attachments/assets/d0abb27a-446f-4e39-9f57-2227abb67be4" />
+<img width="1920" height="1080" alt="attendance summary" src="https://github.com/user-attachments/assets/8e3c6e2a-e97c-4e90-a0e2-df220bc5d222" />
+
