@@ -109,11 +109,11 @@ Omkar
 
 ## frontend login code step by step
 
-cd frontend
-venv\Scripts\activate
-python app.py
+1. cd frontend
+2. venv\Scripts\activate
+3. python app.py
 
 ## backend login code step by step
 
-cd backend
-npm run dev
+1. cd backend
+2. npm run dev
